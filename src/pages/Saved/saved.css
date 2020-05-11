@@ -1,0 +1,23 @@
+.saved-grid {
+    display: flex;
+}
+
+.container {
+    border: 1px solid black;
+}
+
+.mdl-card{
+    width: 100% !important;
+    margin: auto;
+}
+
+.mdl-button {
+    border: 1px solid black !important;
+    margin-right: 5px !important;
+    display: inline-block !important;
+}
+
+.card-img {
+    height: 80px;
+    width: 80px;
+}
